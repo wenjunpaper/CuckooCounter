@@ -1,5 +1,8 @@
 # CuckooCounter
-Cuckoo Counter: Adaptive Structure of Counters for Accurate Frequency and Top-k estimation
+* Cuckoo Counter: Adaptive Structure of Counters for Accurate Frequency and Top-k estimation (IEEE/ACM Transactions on Networking)
+
+* Authors: Qilong Shi, Yuchen Xu, Jiuhua Qi, Wenjun Li*, Tong Yang, Yang Xu and Yi Wang
+* Qilong Shi, Yuchen Xu and Jiuhua Qi contribute equally to this paper, and they conducted this work under the guidance of Dr. Wenjun Li and Prof. Tong Yang. (Corresponding author: Wenjun Li and Tong Yang)
 
 The test datasets can be downloaded from Releases (on the right side of the webpage, https://github.com/wenjunpaper/CuckooCounter/releases/tag/Datasets).
 
