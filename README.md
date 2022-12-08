@@ -1,4 +1,6 @@
-# Cuckoo Counter: Adaptive Structure of Counters for Accurate Frequency and Top-k estimation (IEEE/ACM Transactions on Networking)
+# Cuckoo Counter
+
+* Cuckoo Counter: Adaptive Structure of Counters for Accurate Frequency and Top-k estimation (IEEE/ACM Transactions on Networking)
 
 * Authors: Qilong Shi, Yuchen Xu, Jiuhua Qi, Wenjun Li*, Tong Yang, Yang Xu and Yi Wang (Qilong Shi, Yuchen Xu and Jiuhua Qi contribute equally to this paper, and they conducted this work under the guidance of Wenjun Li and Tong Yang.)
 * Corresponding e-mail: wenjunli@seas.harvard.edu
