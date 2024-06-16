@@ -4,7 +4,7 @@
 
 * Authors: Qilong Shi, Yuchen Xu, Jiuhua Qi, Wenjun Li*, Tong Yang, Yang Xu and Yi Wang (Qilong Shi, Yuchen Xu and Jiuhua Qi contribute equally to this paper, and they conducted this work under the guidance of Wenjun Li and Tong Yang.)
 * Corresponding e-mail: wenjunli@pku.org.cn
-* Paper Website: http://www.wenjunli.com/CuckooCounter
+* Paper Website: https://www.wenjunli.com/CuckooCounter
 
 The test datasets can be downloaded from Releases (on the right side of the webpage, https://github.com/wenjunpaper/CuckooCounter/releases/tag/Datasets).
 
